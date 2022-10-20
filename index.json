@@ -12,6 +12,6 @@
   "index.html": {
     "href": "index.html",
     "title": "Package Title | Package",
-    "keywords": "Package Title Short Description namespace JelleVer.\"Packagename\" Installation This can be imported as a UnityPackage in any existing Unity project through the Package manager with the Git url. Chapter SubChapter Licensing The code in this project is licensed under MIT license."
+    "keywords": "Package Title Short Description namespace JelleVer.\"Packagename\" Installation This can be imported as a UnityPackage in any existing Unity project through the Package manager with the Git url. Documentation Here is the full API Documentation Template Changes Because this is a templete, there are a number of things to change to make each package unique. package.json Unique values for name , version , ect... The documentationUrl Should link to the Github Pages. (\"username\".github.io/\"repo\") Runtime/ & Editor/ Change the asembly definition to match your package name ⚠️ If you are not Jelle, you will need to change a lot more stuff... Chapter SubChapter Licensing The code in this project is licensed under MIT license."
   }
 }

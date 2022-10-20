@@ -2,11 +2,11 @@
   "sitemap": {
     "fileOptions": {
       "api/*": {
-        "baseUrl": "https://jellevermandere.github.io/Package/",
+        "baseUrl": "https://jellevermandere.github.io/",
         "changefreq": "daily"
       }
     },
-    "baseUrl": "https://jellevermandere.github.io/Package/",
+    "baseUrl": "https://jellevermandere.github.io/",
     "changefreq": "weekly"
   },
   "homepages": [],
@@ -52,7 +52,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "gICkhRKfKdhokPihNE66X9sNs7Mj1r8iGBso4WiRZzo="
+          "hash": "VxwKjbcssphSbHlC8gB6HPm0naio8kfgifFqH0BJWNU="
         }
       },
       "is_incremental": false,
